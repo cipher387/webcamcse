@@ -1,6 +1,6 @@
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/domain_investigation_toolbox">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/webcamcse">
  
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/domain_investigation_toolbox">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/webcamcse">
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
     <p align="center">
