@@ -5,27 +5,30 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
     <p align="center">
 
-<h1>Google Custom Search Engine for search in 10 worldwide webcams catalogs</h1>
+<h1>Google Custom Search Engine for search in worldwide webcams catalogs</h1>
 
-FoxMonitor
+<ul>
+<li>FoxMonitor</li>
 
-Opentopia
+<li>Opentopia</li>
 
-Earthcams
+<li>Earthcams</li>
 
-Geocam
+<li>Geocam</li>
 
-Worldcams
+<li>Worldcams</li>
 
-SkylineWebcams
+<li>SkylineWebcams</li>
 
-WebcamTaxi
+<li>WebcamTaxi</li>
 
-Camstreamer
+<li>Camstreamer</li>
 
-Earthcam
+<li>Earthcam</li>
 
-Insecam
+<li>Insecam</li>
+
+</ul>
 
 Explore this project at https://cipher387.github.io/webcamcse/
 
