@@ -28,6 +28,30 @@
 
 <li>Insecam</li>
 
+<li>Balticlivecam</li>
+
+<li>Meteoblue</li>
+
+<li>Webcam.scs.com.ua</li>
+
+<li>Skylinewebcams</li>
+
+<li>En.world-cam.ru</li>
+
+<li>Mylivestreams</li>
+
+<li>Webcamgalore</li>
+
+<li>Coolwebcams</li>
+
+<li>Whatsupcams</li>
+
+<li>Tabi.cam</li>
+
+<li>Iplivecams</li>
+
+<li>Webcamera24</li>
+
 </ul>
 
 Explore this project at https://cipher387.github.io/webcamcse/
