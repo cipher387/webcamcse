@@ -54,7 +54,7 @@
 
 </ul>
 
-Explore this project at https://cipher387.github.io/webcamcse/
+Explore this project at https://cybdetective.com
 
 
 
