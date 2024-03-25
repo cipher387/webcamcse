@@ -54,7 +54,7 @@
 
 </ul>
 
-Explore this project at https://cybdetective.com
+Explore this project at https://cybdetective.com/webcamcse.html
 
 
 
